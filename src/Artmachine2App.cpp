@@ -14,7 +14,10 @@ class Artmachine2App : public AppNative {
 };
 
 void Artmachine2App::setup()
-{
+{	
+	/*
+	FIRST CHANGE MADE TO THIS FILE
+	*/
 }
 
 void Artmachine2App::mouseDown( MouseEvent event )
